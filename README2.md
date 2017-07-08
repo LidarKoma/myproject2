@@ -10,3 +10,6 @@ Lidar Koma
 ------------------------------
 
 Java/servlet/jsp/jsf/struts/javaee/spring mvc/spring boot
+
+
+so add php/mysql
